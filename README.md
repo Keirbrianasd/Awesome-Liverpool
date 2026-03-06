@@ -302,7 +302,6 @@ Liverpool rewards those who look beyond the obvious.
 - [Liverpool Girl Geeks](https://liverpoolgirlgeeks.com) - Connecting women in tech across the city.
 - [Liverpool Digital](https://liverpooldigital.co.uk) - Community of digital professionals across Merseyside.
 - [CodeUp Liverpool](https://codeup.org.uk) - Free coding meetups for beginners.
-- [L1 Local Tech Room](https://l1local.co.uk/c/l1-tech/12) - Liverpool tech discussion - jobs, projects, meetups, and digital community.
 
 ---
 
@@ -322,7 +321,6 @@ Liverpool rewards those who look beyond the obvious.
 - [TrustMark Liverpool](https://www.trustmark.org.uk) - Government-endorsed tradespeople scheme.
 - [Checkatrade Liverpool](https://www.checkatrade.com) - Vetted local tradespeople with verified reviews.
 - [Liverpool Building Control](https://liverpool.gov.uk/planning-and-building-control/) - Official building control applications and guidance.
-- [L1 Local Trades Room](https://l1local.co.uk/c/l1-trades/8) - Liverpool trades community - find a tradesperson or get your skills seen.
 
 ---
 
